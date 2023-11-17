@@ -1,0 +1,29 @@
+.bg-hero{
+    height: 85vh;
+    background-image: url(https://images.unsplash.com/photo-1507486411790-179bbb6866ed?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: bottom;
+  }
+
+.custom-blur{
+   backdrop-filter: blur(5px); 
+}
+
+/* .magic-card {
+  display: none;
+  bottom: -100px;
+  position: absolute;
+  width: 100%;
+  border-radius: 12px;
+  background: rgba(29, 29, 29, 0.60);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(21.700000762939453px);
+  transition: background-color .2s ease;
+} */
+
+.custom{
+    position: absolute; 
+    top: 984px; 
+    /* left: 0;  */
+    /* width: 100%;  */
+}
