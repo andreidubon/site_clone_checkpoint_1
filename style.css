@@ -20,8 +20,11 @@
   /* position: absolute; 
   top: 1350px; 
   left: 45px; 
-  width: 400;
-  height: 600; */
   /* width: 100%;  */
   text-align: center;
 }
+
+.Jost{
+  font-family: "Jost";
+}
+
