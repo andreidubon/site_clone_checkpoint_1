@@ -9,18 +9,15 @@
    backdrop-filter: blur(5px); 
 }
 
-.custom{
-    position: absolute; 
-    top: 925px; 
-    left: center; 
-    /* width: 100%;  */
+#custom{
+    position: relative; 
+    top: 161px; 
+    height: 800px;
+  /* left: center;  */
+  /* width: 100%;  */
 }
 
 .custom-img{
-  /* position: absolute; 
-  top: 1350px; 
-  left: 45px; 
-  /* width: 100%;  */
   text-align: center;
 }
 
