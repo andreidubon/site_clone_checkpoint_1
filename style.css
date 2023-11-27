@@ -9,21 +9,19 @@
    backdrop-filter: blur(5px); 
 }
 
-/* .magic-card {
-  display: none;
-  bottom: -100px;
-  position: absolute;
-  width: 100%;
-  border-radius: 12px;
-  background: rgba(29, 29, 29, 0.60);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-  backdrop-filter: blur(21.700000762939453px);
-  transition: background-color .2s ease;
-} */
-
 .custom{
     position: absolute; 
-    top: 984px; 
-    /* left: 0;  */
+    top: 925px; 
+    left: center; 
     /* width: 100%;  */
+}
+
+.custom-img{
+  /* position: absolute; 
+  top: 1350px; 
+  left: 45px; 
+  width: 400;
+  height: 600; */
+  /* width: 100%;  */
+  text-align: center;
 }
